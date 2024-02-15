@@ -1,3 +1,42 @@
-theme: jekyll-theme-minimal
-title: Test
-description: Try
+title: youngtuotuo blog
+
+description: "A data scientist think himself ignorant on everything but still try to understand how this world works."
+url: "https://youngtuotuo.github.io"
+github_username: youngtuotuo
+
+# theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+header_pages:
+  - about.md
+
+# Set to `true` to show excerpts on the homepage.
+#show_excerpts: false
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: dark
+
+  social_links:
+   - { platform: github, user_url: "https://github.com/youngtuotuo" }
+
+
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
