@@ -71,3 +71,31 @@ not as "oh those experts also think this, so I don't need to remove my knowledge
     + Appreciate:
 
         + Contents need tons of cost with totally free access.
+
++ Linus Torvalds
+
+    Source: [Linus Torvalds on his insults: respect should be earned.](https://www.youtube.com/watch?v=JZ017D_JOPY)
+
+    > I don't respect people if they think they deserve respect. There are people who think that respect is something that should be given.
+    > I'm perfectly happy saying No. Respect should be earned. Without being earned, you don't get it.
+
+    Only being polite, friendly, respectful to those who deserved, not everyone. Anyone declares those good attitudes should be given to all human beings
+    is those people not able to introspect, to face the reality, to understand their limitation, and, only try to ask others to tolerate their failures, idiots, selfishness.
+
+    + If you meet sales/pm/hr trying to say something like "If you do it well this time, the salary increase will definitely let you happy.",
+    "I understand your pains, let's face the real problem next meeting." DO NOT TRUST THEM, DO NOT RESPECT THEM.
+    + If your manager do something like "I don't agree with you, let me ask A.", and A comes to ask you, and answer the manager, and the manager
+    comes to you again and said "See, A agree with me. So I think we should...". DO NOT RESPECT THE MANAGER.
+    + if anyone using serious terms like "GPT", "RL", "LLM", "Kalman Filter" as fancy term to fulfill their vanity without knowing any details behind.
+    DO NOT RESPECT THEM.
+    + If anyone feels angry or sad when they are pointed out their false (of source, you don't even humiliate them). DO NOT COLLABORATE WITH THEM.<br><br>
+
+    Always do these:
+    + NEVER trust any oral statements/commitments. Only trust those well recorded, no matter in audio or in paper. All of the related person needs one copy of the records.
+        At the end of any oral commitments, say one more thing: "I'm glad we meet an agreement. To protect all of us, let's write down what we agree in paper and submit them
+        to all realted people." You can also ask for recording all the discussions right before each meetings. If anyone disagree, don't waste time on these dogshit.
+    + Always clarifying the accountability throughout the process. Guess what? When idiots found they need to take the responsibilities (and you record well, so that
+    they can't declare it's false afterward) they'll behave like a coward.
+
+
+    
