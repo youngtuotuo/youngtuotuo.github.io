@@ -70,7 +70,7 @@ not as "oh those experts also think this, so I don't need to remove my knowledge
 
     + Appreciate:
 
-        + Contents need tons of cost with totally free access.
+        + Contents need tons of cost with totally free access.<br><br>
 
 + Linus Torvalds
 
