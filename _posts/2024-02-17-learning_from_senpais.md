@@ -84,7 +84,7 @@ not as "oh those experts also think this, so I don't need to remove my knowledge
 
     + If you meet sales/pm/hr trying to say something like "If you do it well this time, the salary increase will definitely let you happy.",
     "I understand your pains, let's face the real problem next meeting." DO NOT TRUST THEM, DO NOT RESPECT THEM.
-    + If your manager do something like "I don't agree with you, let me ask A.", and A comes to ask you, and answer the manager, and the manager
+    + If your manager do something like "I don't agree with you, let me ask A.", and A comes to ask you, and A answer back to the manager, and the manager
     comes to you again and said "See, A agree with me. So I think we should...". DO NOT RESPECT THE MANAGER.
     + if anyone using serious terms like "GPT", "RL", "LLM", "Kalman Filter" as fancy term to fulfill their vanity without knowing any details behind.
     DO NOT RESPECT THEM.
