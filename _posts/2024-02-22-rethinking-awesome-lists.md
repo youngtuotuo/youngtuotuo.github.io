@@ -91,10 +91,10 @@ improve in the *matching problem* world. Please refer to the table of contents
 to know the whole pace. GLASSES EMOJI
 
 Did you notice you just read through an useless paragraph? Try to recap how
-much this shitty paragraph you met when googling. They leverage the knowledge
-chain to extend their article length, leave the reader being exhausted beofre
-actually read the core content, let them need to go back another day to
-literally start learning.
+many those shitty paragraphs you met when googling. They leverage the knowledge
+chain (or, bubbles) to extend their article length, leave the reader being
+exhausted beofre actually read the core contents, let them need to go back
+another day to literally start learning.
 
 Go back to the github awesome list repo. You feel exhausted after reading the
 long introduction paragraph. You see a small, tiny scroll bar. You look at the
