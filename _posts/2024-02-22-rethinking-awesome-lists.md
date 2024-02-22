@@ -45,7 +45,7 @@ otherwise, you are unable to compute the loss.
     output and ground truth label. 25,200 x 10 is a huge $$n$$ for any matching
     algorithm. So you need to filter the 25,200 boxes first. Here comes the
     NMS, Non-Maximum Superssion, an algorithm to pick out the boxes by
-    progressive delete similar ones until the remaining ones are not similar
+    progressively delete similar ones until the remaining ones are not similar
     enough. You need a metric to define the similarity, so you google them, you
     find IoU, Intersection over Union, it's a simple formula, easy to learn and
     implement in 10 minutes. Your NMS algorithm works, good.
@@ -72,8 +72,9 @@ otherwise, you are unable to compute the loss.
 
 Now come back to my first statements. Programming is a dramatically huge world.
 No domain exists like an isolated island. Each topics overlap, the world looks
-like a huge collection bubbles which are slowly merging with each other, and,
-sometimes another bubble emerges from nowhere and you don't know why.
+more like a huge collection of bubbles, each of them are slowly merging with each
+other, and, sometimes another bubble emerges from nowhere and you don't know
+why.
 
 Awesome Lists
 -------------
