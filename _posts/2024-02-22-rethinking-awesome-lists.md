@@ -85,9 +85,9 @@ high level view (Yes, the idiot's high level decision reasoning.), and we can
 plan well based on this high level understanding.
 
 Introducing Awesome Lists, a novel, modern, user friendly, fancy, eco-friendly,
-blazingly fast improves, progressively grows, politically alwyas correct,
+blazingly fast improves, progressively grows, politically always correct,
 contridution welcomed, 500GB README.md file. This list curates all you need to
-improved in the *matching problem* world. Please refer to the table of contents
+improve in the *matching problem* world. Please refer to the table of contents
 to know the whole pace. GLASSES EMOJI
 
 Did you notice you just read through an useless paragraph? Try to recap how
