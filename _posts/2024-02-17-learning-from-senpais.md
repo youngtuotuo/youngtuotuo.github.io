@@ -19,9 +19,9 @@ only learn these by experiences, making mistakes, apologizing to your
 colleagues, and, ignoring idiots. You'll never understand what those quotes
 mean by simply reading them.
 
-If anyone, also a newbie programmer, see this article, think of these quotes as
-"my possible future mindsets when I improves", not as "oh those experts also
-think this, so I don't need to remove my knowledge gaps.".
+If anyone, also a newbie programmer, see this article, please think of these
+quotes as "my possible future mindsets when I improves", not as "oh those
+experts also think this, so I don't need to remove my knowledge gaps.".
 
 + [Casey Muratori](https://substack.com/@cmuratori)
 
@@ -70,7 +70,7 @@ think this, so I don't need to remove my knowledge gaps.".
     When it comes to learning from the internet, you'll find lots of resources,
     tutorials, courses, discussions, etc. That's the awesome part of the
     internet. But the dark side is, most of them look more like gossip. Why
-    we need to care what text editor to choose when you are learning how a
+    you need to care what text editor to use when you are learning how a
     computer system works? You may falls into a dilemma to think youself need to 
     learn everything the community discuss about, so that you won't fall behind
     to any person. THAT'S TOTALLY WRONG.
@@ -122,25 +122,29 @@ think this, so I don't need to remove my knowledge gaps.".
     Only being polite, friendly, respectful to those who deserved, not
     everyone. Anyone declares those good attitudes should be given to all human
     beings is those people not able to introspect, to face the reality, to
-    understand their limitation, and, only try to ask others to tolerate their
-    failures, idiots, selfishness.
+    understand their limitation, and, they only try to ask others to tolerate
+    their failures, idiots, selfishness.
 
     + If you meet sales/pm/hr trying to say something like "If you do it well
     this time, the salary increase will definitely let you happy.", "I
     understand your pains, let's face the real problem next meeting." DO NOT
     TRUST THEM, DO NOT RESPECT THEM.
+
     + If your manager do something like "I don't agree with you, let me ask
     A.", and A comes to ask you, and A answer back to the manager, and the
     manager comes to you again and said "See, A agree with me. So I think we
     should...". DO NOT RESPECT THE MANAGER.
+
     + If anyone using serious terms like "GPT", "RL", "LLM", "Kalman Filter" as
     fancy term to fulfill their vanity without knowing any details behind. DO
     NOT RESPECT THEM.
+
     + If anyone feels angry or sad when they are pointed out their false (of
     source, you don't even humiliate them). DO NOT COLLABORATE WITH
     THEM.
 
     Always do these:
+
     + NEVER trust any oral statements/commitments. Only trust those well
     recorded, no matter in audio or in paper. All of the related person needs
     one copy of the records. At the end of any oral commitments, say one more
@@ -148,6 +152,7 @@ think this, so I don't need to remove my knowledge gaps.".
     down what we agree in paper and submit them to all realted people." You can
     also ask for recording all the discussions right before each meetings. If
     anyone disagree, don't waste time on these dogshit.
+
     + Always clarifying the accountability throughout the process. Guess what?
     When idiots found they need to take the responsibilities (and you record
     well, so that they can't declare it's false afterward) they'll behave like
@@ -175,7 +180,7 @@ think this, so I don't need to remove my knowledge gaps.".
     > not what everybody on the internet is talking about. People on the
     > internet seized that name, and used it inappropriately for their accurate
     > feeling that they don't know what they're doing at their job. Most people
-    > are bad at their job and don't know what their doing. That's not a
+    > are bad at their job and don't know what they're doing. That's not a
     > syndrome. That's an accurate depiction of the situation. People want to
     > pretend it's not true that they're bad at their job. They want to pretend
     > that they're actually good, and it's just a mental issue, it's just
@@ -184,7 +189,7 @@ think this, so I don't need to remove my knowledge gaps.".
     Environment
     
     > For new programmers what would I broadly say about choosing a career path
-    > in programming. The same thing I always say which is be careful what you
+    > in programming, the same thing I always say which is be careful what you
     > choose, especially when you're very young. Because when you're young,
     > it's the time you're really learning and the time when you're still
     > defining yourself. I mean you're still always defining yourself but when
