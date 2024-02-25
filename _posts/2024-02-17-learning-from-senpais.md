@@ -9,10 +9,15 @@ to help myself learning, thinking, and most importantly, avoiding shits.
 This blog is a collection of "I wanna inform myself these when I started learning
 programming."
 
-This blog is not a click-bait "5000000 things I hope I know when start programming
-40000 miliseconds ago." You can only learn these by experiences, making
-mistakes, apologizing to your colleagues, and, ignoring idiots. You'll never
-understand what those quotes mean by simply reading them.
+If any Senpai I mentioned here thinks I quote you out of context, please feel free
+to inform me.
+
+This blog is not a click-bait "5000000 things I hope I know when start
+programming 40000 miliseconds ago." And waste your time reading it with tons of
+positive, encouraging, but totally non-practical shitty statements. You can
+only learn these by experiences, making mistakes, apologizing to your
+colleagues, and, ignoring idiots. You'll never understand what those quotes
+mean by simply reading them.
 
 If anyone, also a newbie programmer, see this article, think of these quotes as
 "my possible future mindsets when I improves", not as "oh those experts also
@@ -20,7 +25,8 @@ think this, so I don't need to remove my knowledge gaps.".
 
 + [Casey Muratori](https://substack.com/@cmuratori)
 
-    Source: [Clean Code : Horrible Performance | Full Interview](https://www.youtube.com/watch?v=OtozASk68Os)\
+    Source: [Clean Code : Horrible Performance \| Full Interview](https://www.youtube.com/watch?v=OtozASk68Os)
+
     Note: "they" refers to those who you think are darn good engineers.
 
     > Even them, don't really have the ability to think through an entire
@@ -132,7 +138,7 @@ think this, so I don't need to remove my knowledge gaps.".
     NOT RESPECT THEM.
     + If anyone feels angry or sad when they are pointed out their false (of
     source, you don't even humiliate them). DO NOT COLLABORATE WITH
-    THEM.<br><br>
+    THEM.
 
     Always do these:
     + NEVER trust any oral statements/commitments. Only trust those well
@@ -145,7 +151,83 @@ think this, so I don't need to remove my knowledge gaps.".
     + Always clarifying the accountability throughout the process. Guess what?
     When idiots found they need to take the responsibilities (and you record
     well, so that they can't declare it's false afterward) they'll behave like
-    a coward.
+    a coward.<br><br>
 
++ [Jonathan Blow](https://www.youtube.com/@jblow888)
 
+    Source: [Jonathan Blow clips that made me consider quitting my job for real](https://www.youtube.com/watch?v=nL8GWU9M8LY)
+
+    His takes are all my favorites cuz' he totally pointed out how problematic
+    the whole environment is. I've mostly met all kinds of idiots he
+    mentioned.
+
+    Career
+
+    > The beginning of your career when you're young and have a lot of energy
+    > is very important. You need to use it effectively because it'll determine
+    > your trajectory for the rest of your life. If you start a career at a
+    > company that gives you a medicore things to do, you're gonna trun
+    > yourself into a mediocre web programmer.
+
+    Imposter Syndrome
+
+    > There is a real psychological effect called imposter syndrome, but that's
+    > not what everybody on the internet is talking about. People on the
+    > internet seized that name, and used it inappropriately for their accurate
+    > feeling that they don't know what they're doing at their job. Most people
+    > are bad at their job and don't know what their doing. That's not a
+    > syndrome. That's an accurate depiction of the situation. People want to
+    > pretend it's not true that they're bad at their job. They want to pretend
+    > that they're actually good, and it's just a mental issue, it's just
+    > confidence or something.
+
+    Environment
     
+    > For new programmers what would I broadly say about choosing a career path
+    > in programming. The same thing I always say which is be careful what you
+    > choose, especially when you're very young. Because when you're young,
+    > it's the time you're really learning and the time when you're still
+    > defining yourself. I mean you're still always defining yourself but when
+    > you're young, you're especially doing that because you have less history
+    > behind you. If you go somewhere medicore, and you learn from people who
+    > are doing medicore work, you're gonna be defining yourself as someone who
+    > doesn't do things that are particularly good or particularly special. ...
+    > If you're lucky, you can break yourself out of that later. But better
+    > never to be in that situation. So, choose where you work and who you work
+    > with very carefully.
+
+    Life
+
+    > I think people tell themselves all the time they're gonna to do that, and
+    > then they just age into their financially stable choice. ... Your
+    > propensity for taking risks will only be reduced as you age. ... When
+    > you'are 43, you'll have way way more reasons to be conservative than when
+    > you were 23. So if you don't learn to take risks now, you will not do it
+    > later.
+
+    Money
+
+    > If you have money of any magnitude, and you have a theory about how to do
+    > something productive, then you should invest that money in your own
+    > theory, if you believe it has a good chance of being right. Because
+    > you're most in control of that and there are fewest middleman skimming
+    > off of that. The highest return comes from you investing that money in
+    > your own idea. All these things like putting it in an index fund or a
+    > mutual found or whatever, that's all for if you don't have an idea of how
+    > to make any money. Which is fine for people who don't want to have an
+    > idea or don't want to take any risks. But if you do, there are better
+    > things to do.
+
+    Doing Stuffs
+
+    > People who succeed do stuff that nobody else was doing because the other
+    > people talk themselves out of doing the thing. That's the secret that you have
+    > to know. Everybody is talking themselves out of success all the time.
+
+    Standing Out
+    
+    > You need to stand out from other people in order to really succeed at a lot
+    > of things. And people are afraid of standing out from other people because
+    > when you stand out from the herd, you get taken down by a mountainn lion or
+    > whatever. ... You might be just looking for ways to not succeed while thinking
+    > that you tried your hardest.

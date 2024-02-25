@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi there!
+A newbie data scientist's life records.
 
 
-[jekyll-organization]: https://github.com/jekyll
