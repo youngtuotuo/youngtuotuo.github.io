@@ -65,3 +65,23 @@ Among these, I'm in a discord voice channel with my friends.
 
 Look at this, lots stimulation are there that my brain can chase.
 
+---
+
+To alleviate, I follow one belief, and all practical stuffs stem from this belief.
+
+> Human can only do one serious thing in a long period.
+
+Like we are just a single core, single thread chip.
+
+Here are the practical principles:
+
+1. Turn off music, even if lofi style or white noise.
+2. Use workspace to split your missions.
+3. Use window to split your sub-missions.
+4. Avoid tons of tabs.
+5. Close windows are not related to current mission.
+6. Close all mission related windows when go to sleep.
+7. Use browser profile to split your work and personal tabs.
+8. Use noise-cancelling headphones.
+9. Fullscreen.
+10. Hide task bars.
