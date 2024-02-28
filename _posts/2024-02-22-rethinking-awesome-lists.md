@@ -11,17 +11,17 @@ offers to learn. Use it as a dictionary. Keep looking at the long list is quite
 harmful and has no benefit to you.
 
 
-Start with Stuffs look Irrevelant
+Start with Stuffs look Irrelevant
 ---------------------------------
 
 Programming is a dramatically huge world. Given one small topic like *matching
-algorithm*, you can find tons of results that'll take you years to master all.
+algorithm*, you can find tons of results that will take you years to master all.
 Let me give you some concrete examples to deeply understand what I mean:
 
 1. You have $$M$$ workers and $$N$$ missions. (Yes, the starting point of each
 boring algorithm problem.) Different worker masters different mission,
-differnet mission costs you different money. Try to come up with an algorithm
-that can maximize the worker-mission assigment efficiency and minimize the cost
+different mission costs you different money. Try to come up with an algorithm
+that can maximize the worker-mission assignment efficiency and minimize the cost
 at the same time.
 
     This is called the *assignment problem* or the *matching problem*. You need
@@ -30,7 +30,7 @@ at the same time.
     matching.
 
     DO NOT exploit one single worker because he/she masters everything and let
-    other worker be ilde like they are waiting for mom's breastfeeding (in some
+    other worker be idle like they are waiting for mom's breastfeeding (in some
     domain, this situation is called *MANAGER*). That's the real world, we are
     now in the Ivory Tower of programming.
 
@@ -44,7 +44,7 @@ otherwise, you are unable to compute the loss.
     bounding boxes, $$M$$ is 25,200, $$N$$ is 10, and, two groups become model
     output and ground truth label. 25,200 x 10 is a huge $$n$$ for any matching
     algorithm. So you need to filter the 25,200 boxes first. Here comes the
-    NMS, Non-Maximum Superssion, an algorithm to pick out the boxes by
+    NMS, Non-Maximum Suppression, an algorithm to pick out the boxes by
     progressively delete similar ones until the remaining ones are not similar
     enough. You need a metric to define the similarity, so you google them, you
     find IoU, Intersection over Union, it's a simple formula, easy to learn and
@@ -59,7 +59,7 @@ otherwise, you are unable to compute the loss.
     Then you wake up from the movie dream.
 
     Life kicks your ass right after this. How come your matching result looks
-    garbadge? By means of garbadge, you refer to the visualization of the
+    garbage? By means of garbage, you refer to the visualization of the
     matching results, not the speed, because we are in modern programming,
     PYTHON. You check every shitty code's details, they are all correctly
     implemented. So, why? You eventually know it's the limitation of IoU, now
@@ -84,16 +84,16 @@ mitigate, we intuitively hope we can understand how this world looked like in a
 high level view (Yes, the idiot's high level decision reasoning.), and we can
 plan well based on this high level understanding.
 
-Introducing Awesome Lists, a novel, modern, user friendly, fancy, eco-friendly,
+Introducing Awesome Lists, a novel, modern, user friendly, fancy, Eco-friendly,
 blazingly fast improves, progressively grows, politically always correct,
-contridution welcomed, 500GB README.md file. This list curates all you need to
+contribution welcomed, 500GB README.md file. This list curates all you need to
 improve in the *matching problem* world. Please refer to the table of contents
 to know the whole pace. GLASSES EMOJI
 
 Did you notice you just read through an useless paragraph? Try to recap how
 many those shitty paragraphs you met when googling. They leverage the knowledge
 chain (or, bubbles) to extend their article length, leave the reader being
-exhausted beofre actually read the core contents, let them need to go back
+exhausted before actually read the core contents, let them need to go back
 another day to literally start learning.
 
 Go back to the github awesome list repo. You feel exhausted after reading the
@@ -102,7 +102,7 @@ amount of stars, 15.2k, you think everyone like this, this should be good. You
 feel content, your learning pace will start tomorrow, you have a bright future.
 
 Tomorrow morning, you wake up, you open the repo in your browser. Tons of good
-resouces out there. You click them all, skim through each one, try to pick one
+resources out there. You click them all, skim through each one, try to pick one
 that best suited your needs. You write a notion page to summarize all of them,
 help yourself being more productive on being productive. 4 hours later,
 you finished the notion list. Each page are classified well, you pick your best

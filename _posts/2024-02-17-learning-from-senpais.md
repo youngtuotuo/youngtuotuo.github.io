@@ -9,11 +9,11 @@ to help myself learning, thinking, and most importantly, avoiding shits.
 This blog is a collection of "I wanna inform myself these when I started learning
 programming."
 
-If any Senpai I mentioned here thinks I quote you out of context, please feel free
+If any senpai I mentioned here thinks I quote you out of context, please feel free
 to inform me.
 
 This blog is not a click-bait "5000000 things I hope I know when start
-programming 40000 miliseconds ago." And waste your time reading it with tons of
+programming 40000 milliseconds ago." And waste your time reading it with tons of
 positive, encouraging, but totally non-practical shitty statements. You can
 only learn these by experiences, making mistakes, apologizing to your
 colleagues, and, ignoring idiots. You'll never understand what those quotes
@@ -42,16 +42,16 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     navigation video, a [vtuber](https://www.youtube.com/@AsahiLina/featured)
     writing macbook m-series gpu driver for Fedora by reverse engineering, a
     [cute turtle](https://www.twitch.tv/vedal987) creates a lovely chat bot
-    even beofre GPT goes viral. Need not to feel inferior, just keep your own
+    even before GPT goes viral. Need not to feel inferior, just keep your own
     pace, keep your own speed, strive with real problems, learn from real
-    problems, dive deeper and deepr as you can. You'll eventually realize that
+    problems, dive deeper and deeper as you can. You'll eventually realize that
     everything are not that difficult like Advanced Calculus, ODE, PDE. Just
     learn them, think them, go to sleep, and you improve.
 
     It's okay to be ignorant, it's not okay to not admit ignorance. I think
     you've been able to recognize your own ignorance, so you are good. You'll
-    eventually find out youself standing out from those never improves, from
-    those always have excuses, from those pretend knowing everthing, you will.
+    eventually find out yourself standing out from those never improves, from
+    those always have excuses, from those pretend knowing everything, you will.
     You don't need to put too much attention on them and hope they'll change,
     no, they are idiots. Pay more attentions to those deserve, to those you
     love.
@@ -60,7 +60,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     
     Source: [#on shortification of "leaning"](https://twitter.com/karpathy/status/1756380066580455557)
 
-    > There are a lot of videos on YouTube/TikTok etc. that give the appearance
+    > There are a lot of videos on YouTube/TikTok etc., that give the appearance
     > of education, but if you look closely they are really just entertainment.
     > This is very convenient for everyone involved : the people watching enjoy
     > thinking they are learning (but actually they are just having fun). The
@@ -71,7 +71,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     tutorials, courses, discussions, etc. That's the awesome part of the
     internet. But the dark side is, most of them look more like gossip. Why
     you need to care what text editor to use when you are learning how a
-    computer system works? You may falls into a dilemma to think youself need to 
+    computer system works? You may falls into a dilemma to think yourself need to 
     learn everything the community discuss about, so that you won't fall behind
     to any person. THAT'S TOTALLY WRONG.
 
@@ -88,7 +88,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
         + Announcing X, a [positive adjective]...
         + Do X when Y
         + X is the best in Y I've ever seen.
-        + Learn X in Y mins. (And stop learning)
+        + Learn X in Y minutes. (And stop learning)
         + Long tutorial with lots of shit talks that only bring you from level
         1 to level 3.
         + Community from any platform.<br><br>
@@ -149,7 +149,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     recorded, no matter in audio or in paper. All of the related person needs
     one copy of the records. At the end of any oral commitments, say one more
     thing: "I'm glad we meet an agreement. To protect all of us, let's write
-    down what we agree in paper and submit them to all realted people." You can
+    down what we agree in paper and submit them to all related people." You can
     also ask for recording all the discussions right before each meetings. If
     anyone disagree, don't waste time on these dogshit.
 
@@ -171,7 +171,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     > The beginning of your career when you're young and have a lot of energy
     > is very important. You need to use it effectively because it'll determine
     > your trajectory for the rest of your life. If you start a career at a
-    > company that gives you a medicore things to do, you're gonna trun
+    > company that gives you a mediocre things to do, you're gonna turn
     > yourself into a mediocre web programmer.
 
     Imposter Syndrome
@@ -194,8 +194,8 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     > it's the time you're really learning and the time when you're still
     > defining yourself. I mean you're still always defining yourself but when
     > you're young, you're especially doing that because you have less history
-    > behind you. If you go somewhere medicore, and you learn from people who
-    > are doing medicore work, you're gonna be defining yourself as someone who
+    > behind you. If you go somewhere mediocre, and you learn from people who
+    > are doing mediocre work, you're gonna be defining yourself as someone who
     > doesn't do things that are particularly good or particularly special. ...
     > If you're lucky, you can break yourself out of that later. But better
     > never to be in that situation. So, choose where you work and who you work
@@ -206,7 +206,7 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     > I think people tell themselves all the time they're gonna to do that, and
     > then they just age into their financially stable choice. ... Your
     > propensity for taking risks will only be reduced as you age. ... When
-    > you'are 43, you'll have way way more reasons to be conservative than when
+    > you're 43, you'll have way way more reasons to be conservative than when
     > you were 23. So if you don't learn to take risks now, you will not do it
     > later.
 
@@ -233,6 +233,6 @@ experts also think this, so I don't need to remove my knowledge gaps.".
     
     > You need to stand out from other people in order to really succeed at a lot
     > of things. And people are afraid of standing out from other people because
-    > when you stand out from the herd, you get taken down by a mountainn lion or
+    > when you stand out from the herd, you get taken down by a mountain lion or
     > whatever. ... You might be just looking for ways to not succeed while thinking
     > that you tried your hardest.

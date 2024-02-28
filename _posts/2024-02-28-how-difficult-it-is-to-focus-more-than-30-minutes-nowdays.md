@@ -5,8 +5,8 @@ title: How Difficult It Is To Focus More Than 30 Minutes Nowdays
 
 By means of focus, I refer to stick to one single complicated mission for a
 long time. You can still rest, drink, go to pee in this period, but you won't
-transfter to another mission. I don't refer to sitting like a robot to finish
-classical Asian educational style homework. (For any Aisian feels racism here,
+transfer to another mission. I don't refer to sitting like a robot to finish
+classical Asian educational style homework. (For any Asian feels racism here,
 I'm a fucking Taiwanese.)
 
 ---
@@ -30,14 +30,14 @@ take, The Primeagen's reaction videos, other tech blogs, etc. I came back to
 the original blog after I realizing I was off topic, and I need to read the
 same paragraph again to recap where I was. I repeat this over and over again.
 
-Eventually, most of my time spend on transferring materials and recaping
+Eventually, most of my time spend on transferring materials and recapping
 knowledge, not actually learning. I guess this is the original sin came with
 tech. Tech improvements let us reach any simple goal way faster than before,
 this tells our dopamine system that "There are many new stimulation we can
-seize.". So our behavior gradually tranforms from "focus on one thing at least
+seize.". So our behavior gradually transforms from "focus on one thing at least
 for 4 hours" to "keep changing our mission at hands", in order to keep chasing
-more stimulation. The problem is, domapine's mission is chasing
-stimulation, not focusing or learning. More concretely, nowdays I'll chase
+more stimulation. The problem is, dopamine's mission is chasing
+stimulation, not focusing or learning. More concretely, now days I'll chase
 transferring more intuitively than chase focusing.
 
 Here's my actual experience, when I'm reading a blog post explains how DALLE 2
@@ -51,16 +51,16 @@ works, I have these tabs opening:
 + Youtube
 + Twitter
 
-also, I have multiple tmux windows with these working directory (fol...LOL):
+Also, I have multiple tmux windows with these working directory (fol...LOL):
 
 + yolor
-+ yolov7
++ Aolov7
 + yolov9
 + tinygrad
 + A compiler writing journey
 + Writing an interpreter in Go
 
-moreover, a file explorer window consists of more than 20 arxiv papers in it.
+Moreover, a file explorer window consists of more than 20 arxiv papers in it.
 Among these, I'm in a discord voice channel with my friends.
 
 Look at this, lots stimulation are there that my brain can chase.
@@ -82,6 +82,6 @@ Here are the practical principles:
 5. Close windows are not related to current mission.
 6. Close all mission related windows when go to sleep.
 7. Use browser profile to split your work and personal tabs.
-8. Use noise-cancelling headphones.
-9. Fullscreen.
+8. Use noise-canceling headphones.
+9. Full screen.
 10. Hide task bars.
