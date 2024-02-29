@@ -5,24 +5,13 @@ title: How Difficult It Is To Focus More Than 30 Minutes Nowdays
 
 By means of focus, I refer to stick to one single complicated mission for a
 long time. You can still rest, drink, go to pee in this period, but you won't
-transfer to another mission. I don't refer to sitting like a robot to finish
+transfer to another mission.
+
+I don't refer to sitting like a robot to finish
 classical Asian educational style homework. (For any Asian feels racism here,
 I'm a fucking Taiwanese.)
 
 ---
-
-For those programmers have the improving mindset, each of them will agree the
-simple phrase "*Just learn everything.*" (Basics, not trend.) This is a life long
-decision. It's good to let us keep learning, accept new concepts, filter useless
-stuffs, etc.
-
-I love this take, and I also believe this take will guide me to learn how the
-tech transforms. I believe in "*The more I know, the more I feel comfortable
-in tech.*" The internet connects all the world, the language model gradually
-replace any learning paradigm, we can easily get any resource we want. It's way
-more easier than before to learn.
-
-But,
 
 I found I couldn't focus like I was 10 years ago. When I'm reading a tech
 blog, I frequently transfer to other materials every 2-5 minutes, e.g. Jblow's
@@ -64,6 +53,13 @@ Moreover, a file explorer window consists of more than 20 arxiv papers in it.
 Among these, I'm in a discord voice channel with my friends.
 
 Look at this, lots stimulation are there that my brain can chase.
+
+---
+
+I'm not saying we should long focus on everything. I'm here to emphasize the
+unbalancing. Knowledge intensive and complicated stuffs deserve more focus and
+deeply thinking. We can still use short focus on other daily things like housekeeping,
+playing with kids, chilling with family or friends.
 
 ---
 
